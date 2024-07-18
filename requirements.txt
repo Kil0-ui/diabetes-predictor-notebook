@@ -54,3 +54,4 @@ jupyterlite-pyodide-kernel
 scikit-learn
 matplotlib
 pandas
+pyodide-http
