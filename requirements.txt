@@ -55,3 +55,4 @@ scikit-learn
 matplotlib
 pandas
 pyodide-http
+Jinja2
