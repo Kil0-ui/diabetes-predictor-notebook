@@ -49,6 +49,8 @@ bqplot
 # add the Pyodide kernel
 jupyterlite-pyodide-kernel
 
+notebook
+
 scikit-learn
 matplotlib
 pandas
